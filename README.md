@@ -29,7 +29,7 @@ I am a Software Developer with over **3+ years of experience** building and depl
 ### 🛠 Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,mysql,postgres,aws,hibernate,js,git,github,postman,vite,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=java,spring boot,microservices,nodejs,react,mysql,postgres,aws,hibernate,js,git,github,postman,vite,bootstrap,tailwind" />
   </a>
 </p>
 
@@ -38,8 +38,14 @@ I am a Software Developer with over **3+ years of experience** building and depl
 ### 📊 GitHub Activity & Insights
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjeedak&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="Sanjeeda's Stats" />
+  
   <br/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeedak&layout=compact&theme=nord&hide_border=true&count_private=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeedak&theme=nord&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
