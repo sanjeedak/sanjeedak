@@ -2,7 +2,7 @@
 > **"Building secure, scalable, and high-performance applications."**
 
 ### Software Developer (Java | Full Stack)
-I am a Software Developer with over **3+ years of experience** building and deploying scalable web applications across **Banking IT, Healthcare IT, and E-commerce** domains. I specialize in Java, Spring Boot, Microservices, and Node.js, with extensive experience in cloud deployment and production support.
+I am a Software Developer with over **4 years of experience** building and deploying scalable web applications across **Banking IT, Healthcare IT, and E-commerce** domains. I specialize in Java, Spring Boot, Microservices, and Node.js, with extensive experience in cloud deployment and production support.
 
 ---
 
